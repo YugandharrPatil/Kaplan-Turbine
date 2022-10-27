@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(48, 48, 48);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#container{
+    width: 80%;
+    background-color: #8D918D;
+    margin: auto;
+    text-align: center;
+    position: relative;
+}
+.mainHeading{
+    font-size: 2.8rem;
+    text-align: center;
+    padding: 20px 0;
+    background-color: black;
+    color: white;
+}
+
+.title{
+    background-color: rgb(105, 105, 105);
+    font-size: 2.3rem;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.image{
+    width: 30%;
+    margin-top: 40px;
+}
+
+.imgcaption{
+    margin-top: 8px;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.mainBody{
+    width: 80%;
+    margin: auto;
+}
+
+.question{
+    font-size: 1.5rem;
+    margin-top: 30px;
+    text-align: left;
+}
+
+.description{
+    text-align: left;
+    font-size: 1.3rem;
+    margin-top: 10px;
+}
+
+input{
+    margin-bottom: 20px;
+}
+
+.para{
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 20px;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+.model{
+    width: 250px;
+}
+
+.ppt{
+    width: 250px;
+}
+
+.madeby{
+    margin-top: 30px;
+}
+
+.images{
+    display: flex;
+    justify-content: space-around;
+}
+
+.image{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+}
+
+.names{
+    font-size: 1.2rem;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.mentor{
+    margin-top: 30px;
+}
+
+.sirimg{
+    width: 40%;
+    margin-top: 30px;
+}
+
+.sir{
+    font-size: 1.3rem;
+    margin-top: 10px;
+    padding-bottom: 30px;
+}
